@@ -1,0 +1,19 @@
+{
+  "name": "use-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rocco-Lt/use-babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rocco-Lt/use-babel/issues"
+  },
+  "homepage": "https://github.com/Rocco-Lt/use-babel#readme"
+}
